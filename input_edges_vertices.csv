@@ -1,0 +1,21 @@
+source,destination,weight,source node = starting node
+u,v,3,Y
+u,x,1,Y
+u,w,7,Y
+v,x,1,N
+v,w,1,N
+x,w,4,N
+x,y,2,N
+w,y,5,N
+w,z,6,N
+y,z,3,N
+v,u,3,N
+x,u,1,N
+w,u,7,N
+x,v,1,N
+w,v,1,N
+w,x,4,N
+y,x,2,N
+y,w,5,N
+z,w,6,N
+z,y,3,N
